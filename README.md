@@ -1,2 +1,0 @@
-# GalpinVeiwTool
-# GalpinVeiwTool
