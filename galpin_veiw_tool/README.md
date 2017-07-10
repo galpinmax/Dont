@@ -1,5 +1,5 @@
 # GalpinVeiwTool
-> cool description
+> cool description and more
 ## Installation
 
 Add this line to your application's Gemfile:
